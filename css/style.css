@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0; 
+    font-family: 'roboto', sans-serif;
+}
+div{
+border: 20px black; 
+padding: 1rem;
+margin-bottom: 10px rgb(230, 40, 40);
+text-align: center; 
+
+} 
+h1{
+color:rgb(225, 255, 0);
+border: 2px solid black;
+} 
+img{
+display: block;
+max-width: 100%;
+filter: invert();
+border: 2px solid white;
+-webkit-transform: scaleX(-1);
+transform: scaleX(-1);
+}
